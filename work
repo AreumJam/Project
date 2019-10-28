@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<body>
+<title> Google Homepage Ditto </title>
+<input type= "text" placeholder= "Search or type a URL"> <br><br>
+<li><a href="Gmail.com">Gmail</a></li>
+  <li><a href="googleimages.com">Images</a></li> <br><br><br><br><br>
+  <img src= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GehYKdImLiMpzSon3pKKLVhwGS_S4Ssjj9WHNIfUYXZiyrzk7w&s>
+
+<div>
+<ul>
+  
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="googleaccounts.com">Account</a>
+    <a href="googlemaps.com">Maps</a>
+    <a href="googleyoutube.com">Youtube</a>
+    <a href="googleplay.com">Play</a>
+    <a href="googlegmail.com">Gmail</a>
+    <a href="googledrive.com">Drive</a>
+    <a href="googlephotos.com">Photos</a>
+    <a href="googlecalander.com">Calender</a>
+    <a href="googledocs.com">Docs</a>
+    <a href="googlebooks.com">Books</a>
+    <a href="googleduo.com">Duo</a>
+    <a href="googlehangouts.com">Hangouts</a>
+    <a href="googleblogger">Blogger</a>
+    <a href="googleclassroom.com">Classroom</a>
+  </div>
+</ul>
+<div>
+
+
+
+
+
+
+
+
