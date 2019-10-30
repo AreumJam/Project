@@ -2,7 +2,8 @@
 <body>
 <title> Google Homepage Ditto </title>
  <div class="page">
-<input class="searchbar" type= "text" placeholder= "Search or type a URL"> 
+
+   <input class="searchbar" type= "text" placeholder= "Search or type a URL"> 
 
 <div class="list">
 <ul>
@@ -14,11 +15,12 @@
     <li><a href="googleplay.com">Gmail</a>
     <li><a href="googleplay.com">Duo</a>
     <li><a href="listofmoregooglestuffs.com">More</a>
-   
-  </div>
+   </div>
+  
+  <img class="googsye" src= https://i.stack.imgur.com/xVtU1.jpg>
   <input class="searchbardos" type= "text" placeholder= "Search or type a URL"> 
 </ul>
-<img class="googsye" src= https://i.stack.imgur.com/xVtU1.jpg>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div class="Hotbar">
 <style>
  ul {
@@ -69,18 +71,17 @@ margin-right: 0px;
   }
   
   .list {
-margin-top: 500px; 
-margin-left: 50px;
-margin-right: auto;
-margin-bottom: 50px;
-   
+margin: 0 auto;
+    margin-left: 700px;
+    margin-right: 105px;
+    margin-top: 20px;
   }
   
   .page {
      background-color: black;
   }
   
-   .searchbardos {
+   .searchbar {
     width: 90%;
     border-radius: 10px;
     padding-left: 20px;
@@ -88,6 +89,16 @@ margin-bottom: 50px;
     margin: 0 auto;
     margin-left: 10px;
     margin-right: 50px;
+  }
+  
+  .searchbardos {
+    width: 50%;
+    border-radius: 10px;
+    padding-left: 20px;
+    display: block;
+    margin: 0 auto;
+    margin-left: 250px;
+    margin-right: 0px;
   }
   </style>
   </div>
@@ -98,6 +109,5 @@ margin-bottom: 50px;
 
 
 </body>
-
 
 
