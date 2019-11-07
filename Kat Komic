@@ -1,0 +1,124 @@
+<body class= box>
+<div class= "panel"><p class="speech">Hey guess what. Its spooky month!</p></div>
+<div class="paneldos"><p class="speechdos">Dont scare me!</p></div>
+<div class= "paneltres">  <p class="speechtres">I wont! But I have a question~</p></div>
+<div class= "panelcuarto">  <p class="speechcuarto">What..?</p></div>
+<div class= "panelcinco"><p class="speechcinco">BOO!</p></div>
+<div class= "panelsies"><p class="speechsies">AAHHHHHH!!!</p></div>
+<style>
+  .box{
+  display: flex;
+  flex-wrap: wrap;
+}
+    
+    .panel {
+  background-color:#0FF;
+  border:solid 2px #000;
+  height:200px;
+  width: 300px;
+  margin:1vmin;
+  background-image: url("http://www.pethealthnetwork.com/sites/default/files/heartworm-disease-in-cats_the-disease-targets-the-lungs481224546.jpg");
+}
+
+ .paneldos {
+  background-color:#0FF;
+  border:solid 2px #000;
+  height:200px;
+  width: 300px;
+  margin:1vmin;
+  background-image: url("https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/2552850/300/200/m1/fpc/wm0/jsxmtvidffggcpkrn16gwvsnjejf0nqrdbczo39aqjsgpxihlz5hom2rzdb3vad1-.jpg?1492360785&s=9a75958d924ed14b5d91695216ed2c58");
+}
+
+ .paneltres{
+  background-color:#0FF;
+  border:solid 2px #000;
+  height:200px;
+  width: 300px;
+  margin:1vmin;
+  background-image: url("http://www.pethealthnetwork.com/sites/default/files/heartworm-disease-in-cats_the-disease-targets-the-lungs481224546.jpg");
+}
+
+.panelcuarto{
+  background-color:#0FF;
+  border:solid 2px #000;
+  height:200px;
+  width: 300px;
+  margin:1vmin;
+  background-image: url("https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/2046366/300/200/m1/fpc/wm0/t6bbk9vogxsj0e9m5jfyny7c0rhpkmmjk5nedutlndfswrlyif1hpvkqtohrdzr9-.jpg?1482165506&s=5bf07959b7cdc8166de603b1df98f96c");
+}.panelcinco{
+  background-color:#0FF;
+  border:solid 2px #000;
+  height:200px;
+  width: 300px;
+  margin:1vmin;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmlL91KXnG7kBjbAKLRw9Mr-GV2SQmdG2xZGSy043ThR0lpvuP");
+}.panelsies{
+  background-color:#0FF;
+  border:solid 2px #000;
+  height:200px;
+  width: 300px;
+  margin:1vmin;
+  background-image: url("data:image/jpeg;base64,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");
+}
+
+.speech{
+   background-color:#fff;
+  border:solid 2px #000;
+  border-radius:12px;
+  display: inline-table\;
+  margin:;
+  padding:.4em 3em;
+  position:; left:0px; top: px;
+}
+
+.speechdos{
+   background-color:#fff;
+  border:solid 2px #000;
+  border-radius:12px;
+  display: inline-table;
+  margin:;
+  padding:.4em 3em;
+  position:; left:0px; top:-180px;
+}
+
+.speechtres{
+   background-color:#fff;
+  border:solid 2px #000;
+  border-radius:12px;
+  display: inline-table;
+  margin:;
+  padding:.4em 3em;
+  position:; left:0px; top:-180px;
+}
+
+.speechcuarto{
+   background-color:#fff;
+  border:solid 2px #000;
+  border-radius:12px;
+  display: inline-table;
+  margin:;
+  padding:.4em 3em;
+  position:; left:0px; top:-180px;
+}
+
+.speechcinco{
+   background-color:#fff;
+  border:solid 2px #000;
+  border-radius:12px;
+  display: inline-table;
+  margin:;
+  padding:.4em 3em;
+  position:; left:0px; top:-180px;
+}
+
+.speechsies{
+   background-color:#fff;
+  border:solid 2px #000;
+  border-radius:12px;
+  display: inline-table;
+  margin:;
+  padding:.4em 3em;
+  position:; left:0px; top:-180px;
+}
+</style>
+</body>
